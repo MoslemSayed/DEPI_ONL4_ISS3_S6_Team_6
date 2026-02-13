@@ -1,5 +1,5 @@
 # DEPI_ONL4_ISS3_S6_Team_6
-## info
+## Info:
 ### Track:Infrastructure and Security - Vulnerability Analyst and Penetration Tester
 ### Group:ONL4_ISS3_S6
 ### Team number: 6
