@@ -21,8 +21,8 @@
 |---|------|-----------|----------|
 | 1️⃣ | Moslem Sayed Shehata Ali | 21120567 | moslem.sayed.shehata@h-eng.helwan.edu.eg |
 | 2️⃣ | Mina Magdy Ezzat Ramzy | 21119835 | Mina-Magdy88@h-eng.helwan.edu.eg |
-| 3️⃣ | Mohamed Abdelnaby Mohamed Ahmed | 21123535 | mohamedabdelnabi989@gmail.com |
-| 4️⃣ | Mohamed Hisham Mohamed | 21055684 | mohamedyayatoure2004@gmail.com |
+| 3️⃣ | Mohamed Abdelnaby Mohamed Ahmed | 21055684 | mohamedabdelnabi989@gmail.com |
+| 4️⃣ | Mohamed Hisham Mohamed | 21056054 | mohamedyayatoure2004@gmail.com |
 | 5️⃣ | Yousef Emad Goda | 21123535 | ye4650655@gmail.com |
 | 6️⃣ | Nedaa Ehab Elhadad | 21124570 | nedaahadad56@gmail.com |
 
